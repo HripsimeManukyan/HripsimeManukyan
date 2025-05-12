@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 #### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/SignIn_WorkFlow_Testing_ProdmapAi]
 > This repository contains automated test cases to validate the Sign-In workflow of ProdMap AI.
 
-#### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/GoRest_Cypress_ApiTesting]
+#### 🔹 [Cypress API Automation] [https://github.com/HripsimeManukyan/GoRest_Cypress_ApiTesting]
 > A Cypress-based test suite for automating API tests using GoRest API.
 
 #### 🔹 [Postman API Testing – Rahulshetty Academy] (https://github.com/HripsimeManukyan/api-testing-rahulshettyacademy)  
