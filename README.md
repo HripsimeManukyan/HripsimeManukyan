@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate **Junior QA Engineer** with hands-on expe
 ![Jira](https://img.shields.io/badge/Jira-Bug_Tracking-blue?logo=jira)
 ![Git](https://img.shields.io/badge/Git-Version_Control-red?logo=git)
 ![JMeter](https://img.shields.io/badge/JMeter-Performance_Testing-red?logo=apachejmeter)
-![Docker](https://img.shields.io/badge/Docker-Basic_Usage-blue?logo=docker)
+
 
 ---
 
