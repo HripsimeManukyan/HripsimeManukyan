@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 > A Cypress-based test suite for automating API tests using GoRest API.
 
 #### 🔹 [Postman API Testing – Rahulshetty Academy] (https://github.com/HripsimeManukyan/api-testing-rahulshettyacademy)  
-This project covers API test automation using Postman with dynamic variable generation and assertion validation. It includes Create, Read, Update, Delete, and verification flows.
+  This project covers API test automation using Postman with dynamic variable generation and assertion validation. It includes Create, Read, Update, Delete, and verification flows.
 
 ---
 
