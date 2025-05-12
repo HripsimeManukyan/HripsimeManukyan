@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 > This project covers API test automation using Postman with dynamic variable generation and assertion validation. It includes Create, Read, Update, Delete, and verification flows.
 
 
-#### 🔹 [JMeter API Performance Testing – Create Initiative API](https://github.com/HripsimeManukyan/jmeter-performance-test) 
+#### 🔹 [JMeter API Performance Testing–Create Initiative API] (https://github.com/HripsimeManukyan/jmeter-performance-test) 
 > This project demonstrates Load, Stress, and Spike testing for the Create Initiative API on the ProdMap AI platform using Apache JMeter. It includes a .jmx test plan, execution results, and a visual HTML performance report.
 
 ---
