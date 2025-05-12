@@ -41,8 +41,8 @@ Welcome to my GitHub! I'm a passionate **Junior QA Engineer** with hands-on expe
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hripsime-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hripsime-manukyan-0336901a0/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=for-the-badge)](https://github.com/HripsimeManukyan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hripsime-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hripsime-manukyan-0336901a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&style=for-the-badge)](https://github.com/HripsimeManukyan)
 [![Portfolio Badge](https://img.shields.io/badge/My_Portfolio-Visit_Now-green?logo=notion&style=for-the-badge)](https://tasteful-grape-0c4.notion.site/Hripsime-QA-Engineer-Portfolio-1f12cb0861fc80819f14d936f47643d5)
 
 
