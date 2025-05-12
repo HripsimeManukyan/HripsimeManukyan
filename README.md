@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hripsime | 🧪 Junior QA Engineer
+# 👋 Hi, I'm Hripsime | 🧪  QA Engineer
 
-Welcome to my GitHub! I'm a passionate **Junior QA Engineer** with hands-on experience in both **manual** and **automated testing**. I focus on building reliable, maintainable, and scalable test solutions to help ship high-quality software.
+Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience in both **manual** and **automated testing**. I focus on building reliable, maintainable, and scalable test solutions to help ship high-quality software.
 
 ---
 
