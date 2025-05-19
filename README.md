@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 #### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/Cypress_POM_Tests]
 > Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
 
-#### 🔹 [Cypress API Automation – GoRest API CRUD Testing](https://github.com/HripsimeManukyan/cypress-api-gorest-testing)  
+#### 🔹 [Cypress API Automation – GoRest API CRUD Testing](https://github.com/HripsimeManukyan/cypress-api-crud-tests)  
 > A Cypress-based API test suite that automates CRUD operations on the GoRest public API using `cy.request()`.  
 > It features dynamic test data, token-based authentication via `.env`, error handling, and HTML/JSON test reporting via Mochawesome.  
 > GitLab CI is used to execute tests and store reports as pipeline artifacts.
