@@ -20,11 +20,13 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 
 ### 📌 Featured Projects
 
+#### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/Cypress_POM_Tests]
+> Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
+
+
 #### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/SignIn_WorkFlow_Testing_ProdmapAi]
 > This repository contains automated test cases to validate the Sign-In workflow of ProdMap AI.
 
-#### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/Cypress_POM_Tests]
-> Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
 
 #### 🔹 [Cypress API Automation – GoRest API CRUD Testing] [https://github.com/HripsimeManukyan/cypress-api-crud-tests]
 > A Cypress-based API test suite that automates CRUD operations on the GoRest public API using `cy.request()`.  
@@ -34,6 +36,7 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 
 #### 🔹 [Cypress API Automation] [https://github.com/HripsimeManukyan/GoRest_Cypress_ApiTesting]
 > A Cypress-based test suite for automating API tests using GoRest API.
+
 
 #### 🔹 [Postman API Testing – Rahulshetty Academy] (https://github.com/HripsimeManukyan/api-testing-rahulshettyacademy)  
 > This project covers API test automation using Postman with dynamic variable generation and assertion validation. It includes Create, Read, Update, Delete, and verification flows.
