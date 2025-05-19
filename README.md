@@ -26,15 +26,14 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 > GitLab CI is used to execute the tests and store reports as pipeline artifacts.
 
 
-#### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/Cypress_POM_Tests]
-> Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
-
-
 #### 🔹 [Cypress API Automation] [https://github.com/HripsimeManukyan/GoRest_Cypress_ApiTesting]
 > A Cypress-based test suite for automating API tests using GoRest API.
 
 #### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/SignIn_WorkFlow_Testing_ProdmapAi]
 > This repository contains automated test cases to validate the Sign-In workflow of ProdMap AI.
+
+#### 🔹 [Cypress Web Automation] [https://github.com/HripsimeManukyan/Cypress_POM_Tests]
+> Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
 
 
 #### 🔹 [Postman API Testing – Rahulshetty Academy] (https://github.com/HripsimeManukyan/api-testing-rahulshettyacademy)  
