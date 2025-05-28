@@ -36,6 +36,11 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 > Automated test suite using Cypress, POM structure, and Mochawesome HTML reporting. The tests include functionality for logging in and adding products to the cart.
 
 
+#### 🔹📘 [Playwright JS Automation][https://github.com/HripsimeManukyan/playwright-js-automation]
+>End-to-end automated UI testing framework using Playwright and JavaScript.
+>The project uses the Page Object Model (POM) structure and supports organized configs, reusable page classes, and scalable test flows.
+
+
 #### 🔹 [Postman API Testing – Rahulshetty Academy] (https://github.com/HripsimeManukyan/api-testing-rahulshettyacademy)  
 > This project covers API test automation using Postman with dynamic variable generation and assertion validation. It includes Create, Read, Update, Delete, and verification flows.
 
