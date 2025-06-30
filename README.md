@@ -20,6 +20,13 @@ Welcome to my GitHub! I'm a passionate **QA Engineer** with hands-on experience 
 
 ### 📌 Featured Projects
 
+
+
+#### 🔹 [Playwright TS Automation][https://github.com/HripsimeManukyan/playwright_typescript_pom]
+>This project automates key user flows on AutomationExercise.com using the Playwright testing framework with TypeScript.
+>The project uses the Page Object Model (POM) for reusability and maintainability..
+
+
 #### 🔹 [Cypress API Automation – GoRest API CRUD Testing] [https://github.com/HripsimeManukyan/cypress-api-crud-tests]
 > A Cypress-based API test suite that automates CRUD operations on the GoRest public API using `cy.request()`.  
 > It features dynamic test data, token-based authentication via `.env`, error handling, and HTML/JSON reporting via Mochawesome.  
